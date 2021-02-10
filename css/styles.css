@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p{
+	font-family: 'Satisfy', cursive;
+}
+
+body{
+	background-color: antiquewhite;
+} 
+
+.introduction {
+	color: #904700 
+}
+
+.hisquestion {
+    font-style: oblique;
+}
+
+.mycontainer {
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+	
+	border: dotted;
+}
+
+#important {
+	color: #FF6827;
+}
